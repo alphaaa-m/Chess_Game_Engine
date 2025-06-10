@@ -8,7 +8,7 @@ This project implements a simple command-line Chess Game Engine using Python. It
 
 Here's a visual summary of the project:
 
-![Python Chess Engine Poster](images/Chess_Game-Cover.png)
+![Chess_Engine Poster](https://github.com/alphaaa-m/Chess_Game_Engine/blob/main/Chess_Game-Cover.png)
 
 ---
 
