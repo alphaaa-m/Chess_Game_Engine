@@ -30,7 +30,7 @@ Here's a visual summary of the project:
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/your-username/chess-engine.git](https://github.com/your-username/chess-engine.git) # Replace with your repo URL
+    git clone https://github.com/alphaaa-m/Chess_Game_Engine
     ```
 2.  **Navigate to the project directory:**
     ```bash
